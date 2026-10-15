@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Stock,Defective_Units,Daily_Sales,Expiry_Date,Usable_Stock,Defect_Percentage,Days_To_Expiry,Expiry_Status,Stock_Status
+P101,Milk,Dairy,100,2,20,2026-12-31,98.0,2.0,77.0,Valid,Normal
+P102,Biscuits,Snacks,80,2,10,2027-01-15,78.0,2.5,92.0,Valid,Normal
+P103,Juice,Beverages,20,4,15,2026-12-20,16.0,20.0,66.0,Valid,Low Stock
+P104,Bread,Bakery,50,10,12,2026-10-16,40.0,20.0,1.0,Near Expiry,Normal
+P105,Cheese,Dairy,40,3,8,2026-10-25,37.0,7.5,10.0,Valid,Normal
+P106,Chips,Snacks,100,1,18,2027-02-10,99.0,1.0,118.0,Valid,Normal
+P107,Yogurt,Dairy,30,2,10,2026-10-19,28.0,6.666666666666667,4.0,Near Expiry,Low Stock
+P108,Chocolate,Snacks,60,5,14,2027-03-12,55.0,8.333333333333332,148.0,Valid,Normal
+P109,Butter,Dairy,25,2,6,2026-11-15,23.0,8.0,31.0,Valid,Normal
+P110,Water,Beverages,200,0,25,2027-06-10,200.0,0.0,238.0,Valid,Normal
+P111,curd,Dairy,10,2,5,2026-10-15,8.0,20.0,0.0,Near Expiry,Low Stock
+P115,curd,Dairy,10,2,7,2026-10-15,8.0,20.0,0.0,Near Expiry,Low Stock
+P119,rava,Other,5,0,2,2026-10-15,5.0,0.0,0.0,Near Expiry,Low Stock
+P200,drinking chocolate,Dairy,6,0,5,2026-10-15,6.0,0.0,0.0,Near Expiry,Low Stock
+P205,hot chocolate,Dairy,55,5,25,2026-10-15,,,,,
